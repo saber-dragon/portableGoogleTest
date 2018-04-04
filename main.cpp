@@ -7,7 +7,7 @@ using namespace std;
 
 
 tuple<int, double, bool, string> foo(){
-    return {1, 1.0, false, "hello world"};
+    return std::make_tuple(1, 1.0, false, "hello world");
 }
 
 
