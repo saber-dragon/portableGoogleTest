@@ -8,6 +8,7 @@ which makes the Google Test as a portable C++ package.
 
 + macOS 10.13 High Sierra
 + Ubuntu 17.10
++ Windows 10 (with MinGW64 with gcc 7.2.0)
 
 ## Not Work
 
