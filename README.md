@@ -12,6 +12,9 @@ which makes the Google Test as a portable C++ package.
 + Ubuntu 16.04
 
 
+Note that if no toolchain is provided, then the system default one is used.
+
+
 ## Notice
 
 
